@@ -1,4 +1,5 @@
-nio-examples
+nio
 ============
 
-some nio examples for java
+* examples for java
+* netty 3.x
