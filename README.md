@@ -2,4 +2,4 @@ nio
 ============
 
 * examples for java
-* netty 3.x
+* study netty 5.x
